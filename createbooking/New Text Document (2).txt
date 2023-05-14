@@ -1,0 +1,2 @@
+newman run Createbooking.postman_collection.json -e Createbooking.postman_environment.json -r cli,html
+newman run Createbooking.postman_collection.json -e Createbooking.postman_environment.json -r cli,htmlextra
