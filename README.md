@@ -91,4 +91,7 @@ Additional Needs
 
 Newman Report Summary
 
+[Screenshot (280)](https://github.com/Swarna2509/createbooking/assets/72212832/16a16f4a-5f9a-453d-8e20-8036958c56a9)
+![Screenshot (281)](https://github.com/Swarna2509/createbooking/assets/72212832/1761df14-9424-41ab-bfe6-4530ea93ac81)
+![Screenshot (279)](https://github.com/Swarna2509/createbooking/assets/72212832/0431c04b-ca0f-4fe0-a250-b2ebda55eaf4)
 
